@@ -2,7 +2,7 @@
  Casino assignment
 ```
 View Demo👇: <br />
-https://bespoke-medovik-0364db.netlify.app/ <br />
+https://classy-praline-173836.netlify.app/ <br />
 View my Linkedin👇: <br />
 https://www.linkedin.com/in/gigi-beridze-367126214/ <br />
 View figma design 👇: <br />
