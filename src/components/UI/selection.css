@@ -44,6 +44,14 @@
   scrollbar-color: #FD4A46 #E3E3E3;
   scrollbar-width: 3px;
 }
+.options-list::-webkit-scrollbar {
+  background-color: #E3E3E3; 
+  width: 5px;
+}
+.options-list::-webkit-scrollbar-thumb {
+  width: 3px;
+  background: #FD4A46;
+}
 .options-list li {
   padding: 4px;
   color: #001C2D;
