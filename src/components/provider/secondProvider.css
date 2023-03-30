@@ -1,0 +1,29 @@
+.provider-items ul, 
+.provider-items li{
+    flex-wrap: wrap;
+    background: #E3E3E3;
+}
+.provider-items nav {
+    padding-left: 20px;
+}
+.mobile-menu {
+    display: none;
+}
+.mobile-menu button{
+    text-align: center;
+    color: var(--main-text-color);
+    font-size: 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+
+}
+@media (max-width: 768px) { 
+    .mobile-menu {
+        display: block;
+        margin-right: 60px;
+    }
+    .provider-items ul, 
+    .provider-items li{
+        display: none;
+    }
+}

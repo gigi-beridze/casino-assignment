@@ -1,0 +1,38 @@
+[
+    {
+        "id": "1",
+        "title": "All Games"
+    },
+    {
+        "id": "2",
+        "title": "Popular Games"
+    },
+    {
+        "id": "3",
+        "title": "My Favorites"
+    },
+    {
+        "id": "4",
+        "title": "Recently Played"
+    },
+    {
+        "id": "5",
+        "title": "Drops & Wins"
+    },
+    {
+        "id": "6",
+        "title": "Bonus Buy"
+    },
+    {
+        "id": "7",
+        "title": "Megaways"
+    },
+    {
+        "id": "8",
+        "title": "Jackpot Games"
+    },
+    {
+        "id": "9",
+        "title": "New Games"
+    }
+  ]

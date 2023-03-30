@@ -1,0 +1,26 @@
+[
+    {
+        "id": "1",
+        "image": "/provider_img/img1.png"
+    },
+    {
+        "id": "2",
+        "image": "/provider_img/img2.png"
+    },
+    {
+        "id": "3",
+        "image": "/provider_img/img3.png"
+    },
+    {
+        "id": "4",
+        "image": "/provider_img/img4.png"
+    },
+    {
+        "id": "5",
+        "image": "/provider_img/img5.png"
+    },
+    {
+        "id": "6",
+        "image": "/provider_img/img6.png"
+    }
+  ]

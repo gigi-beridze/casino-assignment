@@ -1,0 +1,14 @@
+.provider-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    gap: 80px;
+    background: #E3E3E3;
+    border-radius: 10px;
+    min-height: 64px;
+    flex-wrap: wrap;
+}
+.provider-items nav {
+    font-size: 12px;
+}

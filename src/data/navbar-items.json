@@ -1,0 +1,72 @@
+[  
+    {    
+        "name": "home",    
+        "link": "/",
+        "showed": true
+    },  
+    {    
+        "name": "sport",    
+        "link": "/",
+        "showed": true
+    },  
+    {   
+        "name": "live",    
+        "link": "/",
+        "showed": true
+    },
+    {    
+        "name": "sport",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "casino",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "live casino",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "mini games",    
+        "link": "/",
+        "showed": true
+    }, 
+    {    
+        "name": "e-sports",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "virtual sports",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "racing",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "promotions",    
+        "link": "/",
+        "showed": true  
+    }, 
+    {    
+        "name": "log-in",    
+        "link": "/",
+        "showed": false  
+    },  
+    {    
+        "name": "theme",    
+        "link": "/",
+        "showed": false  
+    },
+    {    
+        "name": "choose language",    
+        "link": "/",
+        "showed": false  
+    }
+]
